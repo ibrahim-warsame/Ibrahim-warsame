@@ -50,7 +50,8 @@
 
 ### 📬 Let's Connect!
 - **Website**: [ibrahim-warsame.github.io](https://ibrahim-warsame.github.io)
-- **LinkedIn**: [ibrahim-warsame](https://linkedin.com/in/ibrahim-warsame)  
+- **LinkedIn**: [ibrahim-warsame](https://linkedin.com/in/ibrahim-warsame-a929262aa
+)  
 - **GitHub**: [ibrahim-warsame](https://github.com/ibrahim-warsame)  
 - **Email**: ibrahimali.wr@gmail.com  
 - **Phone**: +254 722 147 385
