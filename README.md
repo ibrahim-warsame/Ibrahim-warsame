@@ -1,43 +1,31 @@
-# Hi, I'm Ibrahim Warsame
+## Hi, I'm [Your Name] ✨
 
-I'm a Computer Science student and aspiring Software Engineer focused on building real-world solutions with clean, scalable code. I'm passionate about cloud, AI, and full-stack development.
-
----
-
-### 🚀 Tech Stack
-- **Languages:** Python, JavaScript, C++, Java
-- **Frameworks:** React, Node.js, Express, Flask
-- **Tools:** Git, Docker, Postman, Linux
-- **Cloud:** AWS (Cloud Practitioner), Firebase
-- **Databases:** MongoDB, MySQL
+💻 Computer science and design student at [Your University]  
+🛠 I create themed desktop apps to stay consistent  
+📹 I make videos about code and design on [Instagram](https://instagram.com/yourhandle)  
+📦 Download my projects and useful resources/tutorials on my [Gumroad](https://yourgumroad.com)  
+🌐 Join the [Star-Lab community](https://star-lab.dev) to learn and connect with other coders!
 
 ---
 
-### 📌 Projects
-- **Portfolio Website** — [ibrahim-warsame.github.io](https://ibrahim-warsame.github.io)
-- **Smart Notes App** — React + Firebase notes app with auth and markdown support
-- **AI Resume Analyzer** — ML tool that scores resumes based on job descriptions
-- **DevDash CLI** — A Python CLI tool to track dev metrics (WIP)
+### Tech Stack  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![InDesign](https://img.shields.io/badge/-Adobe%20InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white)  
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-### 🏆 Achievements
-- Participant – **Microsoft AI SkillFest** (Guinness World Record)
-- Completed Harvard's **CS50x** & Andrew Ng's **Machine Learning**
-- 16-week **Technical Program Manager Intern** – Paramount Students
-- 200+ coding problems solved on LeetCode, HackerRank
-
----
-
-### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/ibrahim-warsame](https://www.linkedin.com/in/ibrahim-warsame)
-- **GitHub:** [github.com/ibrahim-warsame](https://github.com/ibrahim-warsame)
-- **Email:** ibrahimali.wr@gmail.com
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-<!---
-ibrahim-warsame/ibrahim-warsame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### GitHub Stats  
+#### Most Used Languages
+```text
+JavaScript   ████████████████░░░░░░░░░░░░   54.03%  
+CSS          █████████░░░░░░░░░░░░░░░░░░░   26.12%  
+HTML         █████░░░░░░░░░░░░░░░░░░░░░░░   19.86%
