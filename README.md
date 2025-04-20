@@ -24,6 +24,11 @@
 ---
 
 ### GitHub Stats  
+Total Stars Earned: 8
+	•	Total Commits (2025): 67
+	•	Total PRs: 0
+	•	Total Issues: 0
+	•	Contributed to (last year): 1
 #### Most Used Languages
 ```text
 JavaScript   ████████████████░░░░░░░░░░░░   54.03%  
