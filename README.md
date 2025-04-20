@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ibrahim Warsame!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Aspiring+Software+Engineer;TPM+Intern+@Paramount+Students&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Aspiring+Software+Engineer;Problem+Solver+%26+Builder&center=true&width=500&height=45">
 </p>
 
 ---
@@ -9,7 +9,6 @@
 - 🎓 CS student graduating October 2025  
 - 🛠️ Building skills in full-stack dev, AI, and cloud technologies  
 - 🧠 Passionate about problem-solving, leadership & systems thinking  
-- 🧪 Currently a Technical Program Manager Intern at Paramount Students  
 - 📈 Always learning, building, and sharing
 
 ---
@@ -50,9 +49,11 @@
 ---
 
 ### 📬 Let's Connect!
+- **Website**: [ibrahimwarsame.dev](https://ibrahimwarsame.dev)  
 - **LinkedIn**: [ibrahim-warsame](https://linkedin.com/in/ibrahim-warsame)  
 - **GitHub**: [ibrahim-warsame](https://github.com/ibrahim-warsame)  
-- **Email**: ibrahimali.wr@gmail.com
+- **Email**: ibrahimali.wr@gmail.com  
+- **Phone**: +254 722 147 385
 
 ---
 
