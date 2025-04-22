@@ -49,7 +49,7 @@
 ---
 
 ### 📬 Let's Connect!
-- **Website**: [ibrahim-warsame.github.io](https://ibrahim-warsame.github.io)
+- **Website**: [https://www.canva.com/design/DAGlZK0JNE4/VIUXatFcsIMTNoISSapG7g/edit)
 - **LinkedIn**: [ibrahim-warsame](https://linkedin.com/in/ibrahim-warsame-a929262aa
 )  
 - **GitHub**: [ibrahim-warsame](https://github.com/ibrahim-warsame)  
