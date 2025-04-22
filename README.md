@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ibrahim Warsame!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Aspiring+Software+Engineer;Problem+Solver+%26+Builder&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Software+Engineer;Problem+Solver+%26+Builder&center=true&width=500&height=45">
 </p>
 
 ---
@@ -54,7 +54,7 @@
 )  
 - **GitHub**: [ibrahim-warsame](https://github.com/ibrahim-warsame)  
 - **Email**: ibrahimali.wr@gmail.com  
-- **Phone**: +254 722 147 385
+- **Phone**: +254722147385
 
 ---
 
