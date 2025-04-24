@@ -54,7 +54,6 @@
 )  
 - **GitHub**: [ibrahim-warsame](https://github.com/ibrahim-warsame)  
 - **Email**: ibrahimali.wr@gmail.com  
-- **Phone**: +254722147385
 
 ---
 
