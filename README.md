@@ -15,6 +15,22 @@
 - 🛠️ Building skills in full-stack dev, AI, and cloud technologies  
 - 🧠 Passionate about problem-solving, leadership & systems thinking  
 - 📈 Always learning, building, and sharing  
+- ⚡ Fun fact: I break things just to learn how to fix them better.
+
+---
+
+### 🔭 Currently Working On
+- Improving backend design patterns and scalable APIs  
+- Real-world AI tools using Python & LLMs  
+- Personal portfolio redesign and open source contributions  
+
+---
+
+### 🌱 Currently Learning
+- 🌐 Next.js and Tailwind CSS  
+- ☁️ Cloud engineering with Google Cloud & Docker  
+- 🧠 Prompt engineering + ML APIs  
+- 🧩 Systems design for large-scale applications  
 
 ---
 
@@ -35,6 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -52,6 +69,14 @@
 
 ---
 
+### 📅 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-warsame&theme=tokyo-night" />
+</p>
+
+---
+
 ### 🏆 GitHub Achievements
 
 <p align="center">
@@ -60,13 +85,22 @@
 
 ---
 
+### 🚀 Featured Projects *(just a teaser – link to more)*
+
+- 🧭 **AI-Powered Task Assistant** — built with OpenAI, Flask & React  
+- 📦 **DevToolbox CLI** — Python CLI to automate dev tasks  
+- 🌐 **Responsive Portfolio** — built with Next.js + Tailwind  
+📍 _More on my GitHub!_ 👉 [@ibrahim-warsame](https://github.com/ibrahim-warsame?tab=repositories)
+
+---
+
 ### 🤝 Let's Connect!
 
-- 🌐 **Website**: [**Ibrahim's Portfolio**](https://ibrahim-warsame.github.io)
-- 💼 **LinkedIn**: [ibrahim-warsame](https://linkedin.com/in/ibrahim-warsame-a929262aa)  
-- 🧑‍💻 **GitHub**: [ibrahim-warsame](https://github.com/ibrahim-warsame)  
+- 🌐 **Portfolio**: [ibrahim-warsame.github.io](https://ibrahim-warsame.github.io)  
+- 💼 **LinkedIn**: [linkedin.com/in/ibrahim-warsame-a929262aa](https://linkedin.com/in/ibrahim-warsame-a929262aa)  
+- 🧑‍💻 **GitHub**: [@ibrahim-warsame](https://github.com/ibrahim-warsame)  
 - 📧 **Email**: ibrahimali.wr@gmail.com  
 
 ---
 
-*Thanks for stopping by! Feel free to check out my projects and drop a ⭐ if you like them!*
+*Thanks for visiting! If you like what you see, feel free to ⭐ my repositories or connect with me!*  
