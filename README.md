@@ -54,36 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-warsame&show_icons=true&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ibrahim-warsame&theme=tokyonight" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-warsame&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📅 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-warsame&theme=tokyo-night" />
-</p>
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibrahim-warsame&theme=gruvbox&no-frame=true&column=6" />
-</p>
-
----
 
 ### 🚀 Featured Projects *(just a teaser – link to more)*
 
