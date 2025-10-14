@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Software+Engineer;Problem+Solver+%26+Builder&center=true&width=500&height=45">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ibrahim-warsame&label=Profile+Views&color=blueviolet&style=flat" />
-</p>
+
 
 ---
 
@@ -66,7 +64,7 @@
 
 ### 🤝 Let's Connect!
 
-- 🌐 **Portfolio**: [ibrahim-warsame.github.io](https://ibrahim-warsame.github.io)  
+  
 - 💼 **LinkedIn**: [linkedin.com/in/ibrahim-warsame-a929262aa](https://linkedin.com/in/ibrahim-warsame-a929262aa)  
 - 🧑‍💻 **GitHub**: [@ibrahim-warsame](https://github.com/ibrahim-warsame)  
 - 📧 **Email**: ibrahimali.wr@gmail.com  
